@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css?family=Asap|EB+Garamond&display=swap');
+
+body {
+  background-color: white;
+  color: black;
+}
+
+h1 {
+	color: SlateGrey;
+}
+
+#homeimg {
+	float: right;
+}
+
+.big {
+  line-height: 1.8;
+}
+
+#name {
+	text-align: center;
+	font-family: 'Asap', sans-serif;
+	color: DeepSkyBlue;
+}
+
+
+body,
+h1,
+h2,
+h3,
+h4,
+p {
+  font-family: 'EB Garamond', serif;
+  margin: 0.5em;
+}
+
+nav {
+  text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffffff;
+  border-bottom: 2px solid SkyBlue;
+  display: inline-block;
+}
+
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 12px 14px;
+  text-decoration: none;
+  font-family: 'Asap', sans-serif;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: SkyBlue;
+}
