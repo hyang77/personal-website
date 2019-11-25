@@ -23,8 +23,15 @@ h1 {
     color: DeepSkyBlue;
 }
 
-p.c {
+.myintro {
 	white-space: pre;
+}
+
+#travel_pic,
+#cooking_pic,
+#music_video {
+	width:300px;
+	height:300px;
 }
 
 body,
