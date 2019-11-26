@@ -6,7 +6,6 @@ images[0]= 'images/travel1.png';
 images[1]= 'images/travel2.jpg';
 images[2]= 'images/travel3.jpg';
 images[3]= 'images/travel4.jpg';
-images[4]= 'images/travel5.jpg';
 
 //change Image
 function changeImg(){
